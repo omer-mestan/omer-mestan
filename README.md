@@ -8,9 +8,12 @@
 
 🌍 I am deaf, but I communicate fluently using mobile transcription apps, Bulgarian Sign Language and verbal speech. I’m also studying English at the British Council to improve my international communication and career opportunities.
 
-📈 My GitHub includes real academic projects such as:
+📈 My GitHub includes real academic and personal projects such as:
 - ✈️ AirportFlightManager – REST API system for managing flight operations
 - 🛠️ Practical software testing with custom permissions and filters
+- 🧩 InclusiveHub – Personal task management platform focused on accessibility ([GitHub](https://github.com/omer-mestan/InclusiveHub-A-Personal-Task-Management-Platform))
+- 🎧 Audio Signal Processing – Analyzing and visualizing audio signals with Python ([GitHub](https://github.com/omer-mestan/Audio_Signal))
+- 🧠 Decorator Pattern – Theory and application in Python ([GitHub](https://github.com/omer-mestan/Decorator-Pattern-Theory-and-Application-in-Python))
 
 🎨 Outside of tech, I love anime (especially Naruto), drawing, cooking, and learning languages. I speak Bulgarian, Turkish, English and Bulgarian Sign Language.
 
